@@ -27,3 +27,6 @@ To view the project, please click the below link
 https://www.tinkercad.com/things/5TqVx5Fu0xC-home-automation
 
 ### Output Demonstration
+
+When the brightness of photoresistor is set low, The bulb switches on.
+When the brightness of photoresistor is set high, The bulb switches off
