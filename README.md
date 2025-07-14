@@ -25,3 +25,5 @@ The objective of the project is to design a Bluetooth-Controlled Home Automation
 
 To view the project, please click the below link
 https://www.tinkercad.com/things/5TqVx5Fu0xC-home-automation
+
+### Output Demonstration
